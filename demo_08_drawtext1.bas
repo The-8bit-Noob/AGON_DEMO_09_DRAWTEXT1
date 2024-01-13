@@ -74,15 +74,3 @@
  5090 DRAW NX%+4*SC,NY%+7*SC : DRAW NX%+4*SC,NY%+2*SC : DRAW NX%+1*SC,NY%+2*SC
  5100 ENDPROC : REM END DRAW N.
  5110 :
-
-
-
-
-
-
-
-
-
-
-
-
