@@ -1,7 +1,7 @@
    10 REM ******************************
    20 REM *        AGON LIGHT 2        *
    30 REM *      BBC BASIC MODE 8      *
-   40 REM *          DEMO 08           *
+   40 REM *          DEMO 09           *
    50 REM *         320 X 240          *
    60 REM *     DRAW & SCALE TEXT1     *
    70 REM *       BY LOVEJOY777        *
